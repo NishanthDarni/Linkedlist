@@ -1,0 +1,24 @@
+#id1
+{
+    display:flex;
+    justify-content:flex-start;
+    margin:2px;
+    width:25%;
+    height: 25px;
+    border-radius:3px;
+}
+.btn
+{
+    margin:2px;
+    padding:2px; 
+    background-color:rgb(191, 255, 0);
+    border-radius: 3px;
+    width:15%;
+    height:25px;
+}
+body{
+    background-color:aliceblue;
+}
+nodes{
+    display:flex;
+}
